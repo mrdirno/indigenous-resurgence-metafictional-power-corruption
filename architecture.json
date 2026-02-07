@@ -1,0 +1,160 @@
+{
+  "book_id": "indigenous_resurgence_metafictional_power_corruption",
+  "title": "The Archive in Her Bones",
+  "tagline": "She recovered her people's stolen memories, but the power to rewrite history is the most corrupting force of all.",
+  "target_words": 70000,
+  "actual_words": 75572,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Ancestral Memory as a Living Database",
+    "The Corrupting Allure of Narrative Control",
+    "The Metafictional Weaponization of Story",
+    "Indigenous Resurgence vs. Colonial Archives"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Throat of the World",
+      "words": 3149
+    },
+    {
+      "ch": 2,
+      "title": "The Download",
+      "words": 3150
+    },
+    {
+      "ch": 3,
+      "title": "The First Echo",
+      "words": 3150
+    },
+    {
+      "ch": 4,
+      "title": "The Council's Doubt",
+      "words": 3150
+    },
+    {
+      "ch": 5,
+      "title": "The Scholar's Envy",
+      "words": 3150
+    },
+    {
+      "ch": 6,
+      "title": "Writing the Wrong",
+      "words": 3150
+    },
+    {
+      "ch": 7,
+      "title": "The Unintended Consequence",
+      "words": 3150
+    },
+    {
+      "ch": 8,
+      "title": "The Ministry Takes Notice",
+      "words": 3150
+    },
+    {
+      "ch": 9,
+      "title": "The Offer",
+      "words": 3150
+    },
+    {
+      "ch": 10,
+      "title": "The Fracture",
+      "words": 3150
+    },
+    {
+      "ch": 11,
+      "title": "The Keeper of the Quiet",
+      "words": 3150
+    },
+    {
+      "ch": 12,
+      "title": "The First Erasure",
+      "words": 3150
+    },
+    {
+      "ch": 13,
+      "title": "Guilt of the Editor",
+      "words": 3150
+    },
+    {
+      "ch": 14,
+      "title": "The Archive Fights Back",
+      "words": 3150
+    },
+    {
+      "ch": 15,
+      "title": "Whispers in the Bloodline",
+      "words": 3150
+    },
+    {
+      "ch": 16,
+      "title": "The Corporate Patent",
+      "words": 3150
+    },
+    {
+      "ch": 17,
+      "title": "The Living Lawsuit",
+      "words": 3150
+    },
+    {
+      "ch": 18,
+      "title": "The Spiral in the Server",
+      "words": 3150
+    },
+    {
+      "ch": 19,
+      "title": "The Battle of Narratives",
+      "words": 3150
+    },
+    {
+      "ch": 20,
+      "title": "The Cost of a Clean History",
+      "words": 3150
+    },
+    {
+      "ch": 21,
+      "title": "The Unwritten Ancestor",
+      "words": 3150
+    },
+    {
+      "ch": 22,
+      "title": "Sacrificing the Story",
+      "words": 3150
+    },
+    {
+      "ch": 23,
+      "title": "The River's Verdict",
+      "words": 3149
+    },
+    {
+      "ch": 24,
+      "title": "Not an Archive, a Seed",
+      "words": 3148
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Elara, to protect a painful truth, is tempted to edit a foundational memory from the Archive, exploring the immediate, visceral consequence on her community.",
+      "Draft the journal entry of the 19th-century missionary from the fragment, but from the perspective of the T'aałt'aa guide who led him to the cave, revealing a hidden motive.",
+      "Create a 'memory-file' from the Archive: a single, potent sensory experience (e.g., making a tool, a moment of betrayal, a childhood game) that becomes a key piece of evidence in the modern legal battle.",
+      "Write a dialogue between Elara and the corporate lawyer, where the lawyer argues that 'curating' history for public consumption is a moral duty, and Elara must defend chaotic, painful truth."
+    ],
+    "technical": [
+      "Design a speculative UI/UX for 'The Archive' as it manifests in Elara's mind. How does she query it? How do unwanted or traumatic memories intrude? Is it a search engine, a river, a forest?",
+      "Propose a blockchain or cryptographic story structure where each chapter is a 'block' containing both the narrative and a hidden 'ancestral memory' datum that alters the reading of previous chapters."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Leslie Marmon Silko",
+      "Jorge Luis Borges",
+      "Ursula K. Le Guin",
+      "Franz Kafka"
+    ]
+  },
+  "cover_prompt": "A young Indigenous woman, her eyes glowing with the spectral light of accessed memories, reaches out to touch a swirling vortex of ancestral data that flows like a river of stars and ancient glyphs around her, [Detailed Scene & Context: set within a vast, ethereal archive that merges a sacred cave with a cosmic database; stone shelves hold not books, but crystallized memories and woven baskets of light, while colonial ledger books and broken chains disintegrate into digital dust at her feet], [Artistic Style & Medium: in the atmospheric style of contemporary digital painters like Android Jones and James Jean, blending visionary art with intricate, symbolic detail, rendered with the textural depth of oil painting and ethereal light effects], [Composition & Camera: book cover framing, a centered and intimate portrait composition with a low-angle view that empowers the subject, dramatic negative space filled with the swirling data-streams], [Lighting & Color Palette: dramatic chiaroscuro lighting with a cool, ethereal bioluminescent glow emanating from the data and her hands, contrasting with deep earthy tones of the cave and warm amber highlights on her skin; palette of mystic blues, deep violets, burnt umber, and flashes of corrupted gold], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
